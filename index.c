@@ -124,8 +124,8 @@ void welcome(){
 }
 //Admin Login
 void admin_pass(){
-    char password[21]="gpp";
-    char enter_pass[21],pass1,w='*';
+    char password[26]="Sujay-Deshpande";
+    char enter_pass[26],pass1,w='*';
     int again,i=0;
     system("cls");
     welcome();
@@ -157,7 +157,7 @@ void admin_pass(){
 }
 //Customer Login
 void cus_login(){
-char password[21]="gpp";
+char password[21]="customer";
     char enter_pass[21],pass1,w='*',user[20];
     int again,i=0;
     system("cls");
