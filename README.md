@@ -6,8 +6,8 @@ This project is just basic C language program and the pasword for
     Adin Login:cop: Sujay-Deshpande
     
 Username for Customer Login:
-    :nerd_face:customer
-    
+
+    :nerd_face:customer    
         Password: vipros
     
 Hope you all got the project and don't forget to hit star button:dizzy:
