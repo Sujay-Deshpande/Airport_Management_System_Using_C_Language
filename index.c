@@ -706,19 +706,7 @@ void exit1(){
 	}
     printf("\xB3");
      gotoxy(97,4);
-    printf("Group Leader:");
-     gotoxy(97,5);
-    printf("1.2106055 - Gaikwad Om Dnyaneshwar");
-     gotoxy(97,8);
-    printf("Members:");
-     gotoxy(97,9);
-    printf("2.2106037 - Chopade Prajwal Shrikant");
-    gotoxy(97,10);
-    printf("3.2106038 - Dasarwad Vishwajeet Pandhari");
-    gotoxy(97,11);
-    printf("4.2106043 - Dehspande Shravan Ganesh");
-    gotoxy(97,12);
-    printf("5.2106044 - Deshpande Sujay Hemantkumar");
+    printf("Deshpande Sujay Hemantkumar");
     gotoxy(90,15);
     printf("For exit press any key:");
     Beep(750, 800);
