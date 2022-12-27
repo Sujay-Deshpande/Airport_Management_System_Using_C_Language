@@ -6,6 +6,6 @@ This project is just basic C language program and the pasword for
     
 Username for Customer Login:
     :nerd_face:customer
-    Password: vipros
+        Password: vipros
     
 Hope you all got the project and don't forget to hit star button:dizzy:
